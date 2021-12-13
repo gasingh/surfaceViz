@@ -1,7 +1,7 @@
 # surfaceViz
 A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: we don't employ any standard Python libraries like Numpy, Matplotlib, etc; as they are not compatible with the IronPython which is as .NET port of Python. We mimiced the standard generation functions to build a set of visualization methods in RhinoCommon instead.
 
-## Ennepper Surface (varied orders)
+## Enepper Surface (varied orders)
 ![210624 104](https://user-images.githubusercontent.com/6398561/145767177-0790c3f9-198b-44d8-b649-fd767ecee555.jpg)
 ![210624 106](https://user-images.githubusercontent.com/6398561/145767206-d1c0f7f2-c81c-4e66-812c-43e9af811786.jpg)
 ![210625 18 6_ 2 0 scale](https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg)
