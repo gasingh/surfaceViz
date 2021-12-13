@@ -35,6 +35,8 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 
 ## Dini's Surface
 ![210623 06](https://user-images.githubusercontent.com/6398561/145766700-92816276-f3cf-4f51-9780-9a45b8fcf425.jpg)
+![210623 05](https://user-images.githubusercontent.com/6398561/145769175-390eb250-1d5e-4933-8ea1-41c60da4fd70.jpg)
+
 
 ## Super Formula Surfaces
 
