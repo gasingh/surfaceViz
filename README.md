@@ -10,9 +10,8 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 ![210625 21 7](https://user-images.githubusercontent.com/6398561/145767317-f24ec5f3-001f-4b98-85f3-928bb62edef7.jpg)
 ![Capture5](https://user-images.githubusercontent.com/6398561/145767339-8e5805c5-3e3f-4615-9c65-3f4b56031c64.JPG)
 ![Capture6](https://user-images.githubusercontent.com/6398561/145767356-5f20ba28-ef70-4873-aab5-85a99efbb251.JPG)
-![screenshot 1624870386](https://user-images.githubusercontent.com/6398561/145768787-3e2ca7ee-c946-4e3a-a034-6bd61ff67894.jpg)
+![screenshot 1624870386](https://user-images.githubusercontent.com/6398561/145769939-c336f1d4-303f-4b9d-9193-c87634fe59c5.jpg)
 ![210624 25](https://user-images.githubusercontent.com/6398561/145769747-fc47c852-f6e6-4080-903b-dfe99bca09c0.jpg)
-
 
 ## Monkey Saddle 
 
