@@ -39,3 +39,4 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 
 ![__210714 04_typeD](https://user-images.githubusercontent.com/6398561/145766254-513d5073-6f0e-4eed-b591-b5236f389e0b.jpg)
 
+[Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
