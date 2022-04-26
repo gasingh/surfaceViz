@@ -15,7 +15,7 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 ![210625 18 6_ 2 0 scale](https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg)
 
 
-```
+
 %Equation of a straight line is $y= mx + c$\\
 $$
 r(\varphi) = (|\frac{cos(\frac{m\varphi}{4})}{a}|^{n_2} + |\frac{sin(\frac{m\varphi}{4})}{b}|^{n_3})^{-\frac{1}{n_1}}
@@ -32,7 +32,7 @@ y &= r_1(\theta)sin\theta \cdot r_2(\phi)cos\phi \\
 z &= r_2(\phi)sin\phi
 \end{align}
 where $-\frac{\pi}{2} > \phi > \frac{\pi}{2},$ and $\-\pi > \theta > \pi$ \\
-```
+
 
 ## Monkey Saddle 
 
