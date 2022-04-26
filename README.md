@@ -1,5 +1,3 @@
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 # surfaceViz
 A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: we don't employ any standard Python libraries like Numpy, Matplotlib, etc; as they are not compatible with the IronPython which is as .NET port of Python. We mimiced the standard generation functions to build a set of visualization methods in RhinoCommon instead.
 
@@ -18,10 +16,9 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 
 
 
-%Equation of a straight line is $y= mx + c$\\
-$$
-r(\varphi) = (|\frac{cos(\frac{m\varphi}{4})}{a}|^{n_2} + |\frac{sin(\frac{m\varphi}{4})}{b}|^{n_3})^{-\frac{1}{n_1}}
-$$
+Equation of a straight line is <img src="https://render.githubusercontent.com/render/math?math=y= mx + c">
+
+<img src="https://render.githubusercontent.com/render/math?math=r(\varphi) = (|\frac{cos(\frac{m\varphi}{4})}{a}|^{n_2} + |\frac{sin(\frac{m\varphi}{4})}{b}|^{n_3})^{-\frac{1}{n_1}}">
 
 by choosing different values for the parameters $a,b,m,n_1,n_2,n_3$, different shapes can be generated.
 
