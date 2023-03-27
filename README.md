@@ -11,7 +11,34 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 - Super Formula Surfaces
 
 
+<!--
+```math
+\displaylines{
+}
+```
+-->
+
 ## Enepper Surface
+
+```math
+\displaylines{
+\begin{aligned}
+x &= u\cos(v) - \frac{u^b \cos(bv)}{b}  \
+y &= u\sin(v) + \frac{u^b \sin(bv)}{b}  \
+z &= 2u^a \frac{\cos(av)}{a}
+\end{aligned}
+}
+```
+with 
+```math
+\displaylines{
+\begin{aligned}
+0 < u < 1.2 \
+-\pi < v < \pi
+\end{aligned}
+}
+```
+
 ![210625 18 6_ 2 0 scale](https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg)
 
 ## Monkey Saddle 
@@ -33,6 +60,26 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 ![210623 03](https://user-images.githubusercontent.com/6398561/145766772-27834841-5d17-4e2f-9b3e-d34d53b025e2.jpg)
 
 ## Dini's Surface
+
+```math
+\displaylines{
+\begin{aligned}
+\begin{equation*}
+f(u,v) = \left(\cos(u)\sin(v), \sin(u)\sin(v), \cos(v) + \log\left(\tan\left(\frac{v}{2}\right)\right) + a u\right),
+\end{equation*}
+\end{aligned}
+}
+```
+with 
+```math
+\displaylines{
+\begin{aligned}
+0 \leq u \leq 2\pi \
+0 < v < \pi
+\end{aligned}
+}
+```
+
 ![210623 06](https://user-images.githubusercontent.com/6398561/145766700-92816276-f3cf-4f51-9780-9a45b8fcf425.jpg)
 
 ## Super Formula Surfaces
