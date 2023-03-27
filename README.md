@@ -19,7 +19,7 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 ```
 -->
 
-## Enepper Surface
+## ENEPPER SURFACE
 
 ```math
 \displaylines{
@@ -41,12 +41,26 @@ with
 ```
 
 ![210625 18 6_ 2 0 scale](https://user-images.githubusercontent.com/6398561/145767247-bce844ce-658b-47ab-8060-0384c6439a91.jpg)
+![210624 87](https://user-images.githubusercontent.com/6398561/227831712-1ffe47ac-53fa-4da0-a879-56795792ab2e.jpg)
+![210624 82](https://user-images.githubusercontent.com/6398561/227831882-c03b7735-d6bb-4fe4-951a-2704b2d68829.jpg)
+![210624 03](https://user-images.githubusercontent.com/6398561/227832067-b080a29a-e26c-4224-926a-0ea946872bd0.jpg)
 
-## Monkey Saddle 
+
+## MONKEY SADDLE
+
+```math
+\displaylines{
+\begin{equation*}
+z = x^3 - 3xy^2
+\end{equation*}
+}
+```
+
+This equation defines a surface in three dimensions where $z$ is a function of $x$ and $y$, with the height of the surface at any point $(x,y)$ determined by the expression $x^3 - 3xy^2$. The Monkey Saddle is a saddle-shaped surface, with two saddle points at $(0,0)$ and $(\pm\sqrt{3/2},0)$.
 
 ![210614 01 img9 1](https://user-images.githubusercontent.com/6398561/145766916-029f94cc-10ad-4060-afe2-472116c45d47.jpg)
 
-## Mobeus Strip
+## MOBEUS STRIP
 ```math
 \displaylines{
 \begin{align*}
@@ -61,7 +75,7 @@ This defines the three-dimensional function $(x, y, z)$, which is a parametric s
 
 ![210622_01](https://user-images.githubusercontent.com/6398561/145766822-242bbfb8-ae64-4a5f-8f6f-ee79073a6e63.jpg)
 
-## Klein Bottle
+## KLEIN BOTTLE
 
 ```math
 \displaylines{
@@ -77,11 +91,34 @@ This defines the three-dimensional function $(x, y, z)$, which is a parametric s
 
 ![210623 07_triColorizationRoutines 3](https://user-images.githubusercontent.com/6398561/145766988-f96e01f6-fa52-47dd-a5f3-f439497786a4.jpg)
 
-## Egg Crate
+## EGG CRATE SURFACE
+```math
+\displaylines{
+\begin{equation*}
+z = \sin(xh_2) \cdot \cos(yh_2) \cdot h_1
+\end{equation*}
+}
+```
+where $x$ and $y$ are defined as follows:
+```math
+\displaylines{
+\begin{equation*}
+x = \begin{cases}
+-v, & -v < x < v \
+v, & \text{otherwise}
+\end{cases} \quad \text{and} \quad
+y = \begin{cases}
+-v, & -v < y < v \
+v, & \text{otherwise}
+\end{cases}
+\end{equation*}
+}
+```
+This defines a surface in three dimensions where $z$ is a function of $x$ and $y$, with $x$ and $y$ constrained to the square region $-v < x, y < v$. The height of the surface at any point $(x,y)$ is proportional to $\sin(xh_2)\cos(yh_2)$ and scaled by the constant $h_1$.
 
 ![210614 01_210618 01_K](https://user-images.githubusercontent.com/6398561/145766874-24fcfc4b-d140-4782-896f-a427c20d53e6.jpg)
 
-## Pringle Surface
+## PRINGLE SURFACE
 ```math
 \displaylines{
 \begin{equation*}
@@ -94,7 +131,7 @@ z = \begin{cases}
 ```
 ![210623 03](https://user-images.githubusercontent.com/6398561/145766772-27834841-5d17-4e2f-9b3e-d34d53b025e2.jpg)
 
-## Dini's Surface
+## DINI'S SURFACE
 
 ```math
 \displaylines{
@@ -116,7 +153,7 @@ with
 ```
 ![210623 06](https://user-images.githubusercontent.com/6398561/145766700-92816276-f3cf-4f51-9780-9a45b8fcf425.jpg)
 
-## Simple Bump Surface
+## BUMP SURFACE
 
 ```math
 \displaylines{
@@ -151,7 +188,7 @@ This defines a surface in three dimensions where $z$ is a function of $x$ and $y
 -->
 
 
-## Flower Surface
+## FLOWER SURFACE
 
 ```math
 \displaylines{
@@ -181,7 +218,38 @@ This defines a surface in three dimensions where $z$ is a function of $x$ and $y
 
 ![210614 01 img10 1](https://user-images.githubusercontent.com/6398561/227827108-ca27b0da-f943-411e-9f5e-8e46d5e05140.jpg)
 
-## Super Formula Surfaces
+## VAULT-LIKE SURFACE
+```math
+\displaylines{
+\begin{equation*}
+z = h_1 - (x^2 + y^2)
+\end{equation*}
+}
+```
+where $x$ and $y$ are defined as follows:
+```math
+\displaylines{
+\begin{equation*}
+x = \begin{cases}
+-v, & -v < x < v \
+v, & \text{otherwise}
+\end{cases} \quad \text{and} \quad
+y = \begin{cases}
+-v, & -v < y < v \
+v, & \text{otherwise}
+\end{cases}
+\end{equation*}
+}
+```
+This defines a surface in three dimensions where $z$ is a function of $x$ and $y$, with $x$ and $y$ constrained to the square region $-v < x, y < v$. The height of the surface at any point $(x,y)$ is proportional to the difference between a constant value $h_1$ and the sum of the squares of $x$ and $y$.
+
+<!--
+![numpyInspired3DPlots_v1_img7](https://user-images.githubusercontent.com/6398561/227830589-e0fb9652-b7e8-4072-8ac4-1632e896ff69.jpg)
+-->
+![210616 31](https://user-images.githubusercontent.com/6398561/227831326-00ffb1c6-354e-4b7d-8ef1-4158c4c0ca6b.jpg)
+
+
+## SUPER FORMULA SURFACES
 
 ```math
 \displaylines{
