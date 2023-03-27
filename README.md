@@ -1,15 +1,24 @@
 # surfaceViz
-A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: we don't employ any standard Python libraries like Numpy, Matplotlib, etc; as they are not compatible with the IronPython which is as .NET port of Python. We mimiced the standard generation functions to build a set of visualization methods in RhinoCommon instead.
+A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. 
 
-- Enepper Surface
-- Monkey Saddle 
-- Mobeus Strip
-- Klein Bottle
-- Egg Crate
-- Pringle Surface
-- Dini's Surface
-- Simple Bump Surface
-- Super Formula Surfaces
+- Note: we don't employ any standard Python libraries like Numpy, Matplotlib, etc; as they are not compatible with the IronPython which is as .NET port of Python. 
+- We mimiced the standard generation functions to build a set of visualization methods in RhinoCommon instead.
+- The system can produce Point Clouds, Meshes, and Surface representations.
+- Additional colorization routines are also encoded, which include a height-based colorizer, and an internal generation sequence visualizer, and various color gradients.
+
+The repository currently hosts 10 general parametric surface equations, and the Super Formula equation.
+
+1. Enepper Surface
+1. Monkey Saddle 
+1. Mobeus Strip
+1. Klein Bottle
+1. Egg Crate Surface
+1. Pringle Surface
+1. Dini's Surface
+1. Bump Surface
+1. Flower Surface
+1. Vault-like Surface
+1. Super Formula Surfaces
 
 
 <!--
