@@ -46,9 +46,34 @@ with
 ![210614 01 img9 1](https://user-images.githubusercontent.com/6398561/145766916-029f94cc-10ad-4060-afe2-472116c45d47.jpg)
 
 ## Mobeus Strip
+```math
+\displaylines{
+\begin{align*}
+x &= (1 + \frac{v}{2}\cos(\frac{1}{2}u))\cos(u) \
+y &= (1 + \frac{v}{2}\cos(\frac{1}{2}u))\sin(u) \
+z &= \frac{v}{2}\sin(\frac{1}{2}u)
+\end{align*}
+}
+```
+
+This defines the three-dimensional function $(x, y, z)$, which is a parametric surface defined over the ranges $u \in (0, 2\pi)$ and $v \in (-1, 1)$.
+
 ![210622_01](https://user-images.githubusercontent.com/6398561/145766822-242bbfb8-ae64-4a5f-8f6f-ee79073a6e63.jpg)
 
 ## Klein Bottle
+
+```math
+\displaylines{
+\begin{align*}
+x &= aa + \cos\left(\frac{v}{2}\right)\sin u - \sin\left(\frac{v}{2}\right)\sin(2u)\cos v \
+y &= aa + \cos\left(\frac{v}{2}\right)\sin u - \sin\left(\frac{v}{2}\right)\sin(2u)\sin v \
+z &= \sin\left(\frac{v}{2}\right)\sin u + \cos\left(\frac{v}{2}\right)\sin(2u)
+\end{align*}
+}
+```
+
+This defines the three-dimensional function $(x, y, z)$, which is a parametric surface defined over the ranges $u \in (0, 2\pi)$ and $v \in (0, 6)$.
+
 ![210623 07_triColorizationRoutines 3](https://user-images.githubusercontent.com/6398561/145766988-f96e01f6-fa52-47dd-a5f3-f439497786a4.jpg)
 
 ## Egg Crate
@@ -56,7 +81,16 @@ with
 ![210614 01_210618 01_K](https://user-images.githubusercontent.com/6398561/145766874-24fcfc4b-d140-4782-896f-a427c20d53e6.jpg)
 
 ## Pringle Surface
-
+```math
+\displaylines{
+\begin{equation*}
+z = \begin{cases}
+\sin(x^4) + \cos(y^4), & 0 < x < u \sin(v) \text{ and } 0 < y < u \sin(v) \
+0, & \text{otherwise}
+\end{cases}
+\end{equation*}
+}
+```
 ![210623 03](https://user-images.githubusercontent.com/6398561/145766772-27834841-5d17-4e2f-9b3e-d34d53b025e2.jpg)
 
 ## Dini's Surface
