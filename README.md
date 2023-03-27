@@ -304,7 +304,13 @@ where
 ![210714 04](https://user-images.githubusercontent.com/6398561/227833388-907813a1-2f13-40f7-9085-c10ae331fdfd.jpg)
 <!-- ![210714 01](https://user-images.githubusercontent.com/6398561/227833406-94c06eea-61df-4799-b7de-81257eb6ddcd.jpg) -->
 
-![210714 03](https://user-images.githubusercontent.com/6398561/227834004-b1618d4c-4281-4b9e-9544-2a77e7a337d4.jpg)
+![210715 04_colorRange](https://user-images.githubusercontent.com/6398561/227835167-bc70e910-4394-4f28-a20c-5244f20b6edd.jpg)
+
+<!-- 
+![210714 03](https://user-images.githubusercontent.com/6398561/227834004-b1618d4c-4281-4b9e-9544-2a77e7a337d4.jpg) -->
+
+![210714 01](https://user-images.githubusercontent.com/6398561/227835268-e438a6e2-3370-4bea-96ce-d182bba63d65.jpg)
+![Capture_GH1](https://user-images.githubusercontent.com/6398561/227835450-c061d9db-386e-4d08-85c7-316c6d249068.JPG)
 
 
 [Source: Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
