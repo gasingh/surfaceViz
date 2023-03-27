@@ -8,6 +8,7 @@ A repo to showcase _3d surface plot_ experiments inside Rhino/IronPython. Note: 
 - Egg Crate
 - Pringle Surface
 - Dini's Surface
+- Simple Bump Surface
 - Super Formula Surfaces
 
 
@@ -113,11 +114,102 @@ with
 \end{aligned}
 }
 ```
-
 ![210623 06](https://user-images.githubusercontent.com/6398561/145766700-92816276-f3cf-4f51-9780-9a45b8fcf425.jpg)
+
+## Simple Bump Surface
+
+```math
+\displaylines{
+\begin{equation*}
+z = e^{-(x^2+y^2)}h
+\end{equation*}
+}
+```
+where $x$ and $y$ are defined as follows:
+
+```math
+\displaylines{
+\begin{equation*}
+x = \begin{cases}
+-v, & -v < x < v \
+v, & \text{otherwise}
+\end{cases} \quad \text{and} \quad
+y = \begin{cases}
+-v, & -v < y < v \
+v, & \text{otherwise}
+\end{cases}
+\end{equation*}
+}
+```
+
+This defines a surface in three dimensions where $z$ is a function of $x$ and $y$, with $x$ and $y$ constrained to the square region $-v < x, y < v$. The height of the surface at any point $(x,y)$ is proportional to $e^{-(x^2+y^2)}$ and scaled by the constant $h$.
+
+![210616 09](https://user-images.githubusercontent.com/6398561/227825742-e9355a48-66bf-42b4-8854-0f148092fe34.jpg)
+
+<!--
+![210616 10](https://user-images.githubusercontent.com/6398561/227824747-fea30178-8ab1-470d-a561-fa479e2c0027.jpg)
+-->
+
+
+## Flower Surface
+
+```math
+\displaylines{
+\begin{equation*}
+z = \sin(\sqrt{x^2+y^2}) \cdot h
+\end{equation*}
+}
+```
+where $x$ and $y$ are defined as follows:
+```math
+\displaylines{
+\begin{equation*}
+x = \begin{cases}
+-v, & -v < x < v \
+v, & \text{otherwise}
+\end{cases} \quad \text{and} \quad
+y = \begin{cases}
+-v, & -v < y < v \
+v, & \text{otherwise}
+\end{cases}
+\end{equation*}
+}
+```
+
+This defines a surface in three dimensions where $z$ is a function of $x$ and $y$, with $x$ and $y$ constrained to the square region $-v < x, y < v$. The height of the surface at any point $(x,y)$ is proportional to $\sin(\sqrt{x^2+y^2})$ and scaled by the constant $h$.
+
+
+![210614 01 img10 1](https://user-images.githubusercontent.com/6398561/227827108-ca27b0da-f943-411e-9f5e-8e46d5e05140.jpg)
 
 ## Super Formula Surfaces
 
+```math
+\displaylines{
+r(\varphi) = (|\frac{cos(\frac{m\varphi}{4})}{a}|^{n_2} + |\frac{sin(\frac{m\varphi}{4})}{b}|^{n_3})^{-\frac{1}{n_1}}
+}
+```
+
+by choosing different values for the parameters `a,b,m,n_1,n_2,n_3`, different shapes can be generated.
+It is possible to extend the formula to 3,4, `n` dimensions, by means of the spherical product of superformulas.
+The parametric equations are as follows:
+
+```math
+\displaylines{
+x = r_1(\theta)cos\theta \cdot r_2(\phi)cos\phi \\
+y = r_1(\theta)sin\theta \cdot r_2(\phi)cos\phi \\
+z = r_2(\phi)sin\phi \\
+}
+```
+
+where 
+
+```math
+\displaylines{
+-\frac{\pi}{2} > {\phi} > \frac{\pi}{2} \\
+-{\pi} > {\theta} > {\pi} \\
+}
+```
+
 ![__210714 04_typeD](https://user-images.githubusercontent.com/6398561/145766254-513d5073-6f0e-4eed-b591-b5236f389e0b.jpg)
 
-[Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
+[Source: Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
