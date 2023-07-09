@@ -54,6 +54,7 @@ with
 ![210624 82](https://user-images.githubusercontent.com/6398561/227831882-c03b7735-d6bb-4fe4-951a-2704b2d68829.jpg)
 ![210624 03](https://user-images.githubusercontent.com/6398561/227832067-b080a29a-e26c-4224-926a-0ea946872bd0.jpg)
 
+[View in 3d](https://3dviewer.net/#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/Enepper%20Surface_v2B.19_higherOrderVersion10-D_fixed2_variations!!_iterationGen_02_hiResPrinter.py_03.stl)
 
 ## MONKEY SADDLE
 
