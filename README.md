@@ -55,8 +55,13 @@ with
 ![210624 03](https://user-images.githubusercontent.com/6398561/227832067-b080a29a-e26c-4224-926a-0ea946872bd0.jpg)
 
 
-VIEW IN 3D: <br>
-[<img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width = "35">](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/Enepper%20Surface_v2B.19_higherOrderVersion10-D_fixed2_variations!!_iterationGen_02_hiResPrinter.py_03_(orig).3dm)
+
+<p align="center" width="100%">
+  View in 3D: <br>
+  <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/Enepper%20Surface_v2B.19_higherOrderVersion10-D_fixed2_variations!!_iterationGen_02_hiResPrinter.py_03_(orig).3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+</p>
+
+<!-- [<img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width = "35">](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/Enepper%20Surface_v2B.19_higherOrderVersion10-D_fixed2_variations!!_iterationGen_02_hiResPrinter.py_03_(orig).3dm) -->
 
 <!-- [**VIEW 3D**](https://3dviewer.net/#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/Enepper%20Surface_v2B.19_higherOrderVersion10-D_fixed2_variations!!_iterationGen_02_hiResPrinter.py_03.stl) -->
 
@@ -320,7 +325,9 @@ where
 <!-- [<img src="img/myImage.png">](http://example.com/) -->
 <!-- [![](https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp)](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm) -->
 
-VIEW IN 3D: <br>
-[<img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width = "35">](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm)
+<p align="center" width="100%">
+  View in 3D: <br>
+  <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+</p>
 
 [Source: Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
