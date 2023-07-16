@@ -314,6 +314,7 @@ where
 ![Capture_GH1](https://user-images.githubusercontent.com/6398561/227835450-c061d9db-386e-4d08-85c7-316c6d249068.JPG)
 
 
-[**VIEW 3D**](https://3dviewer.net/#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-D_3.gh.stl)
+
+[**VIEW 3D**](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm)
 
 [Source: Math Equations on my GitLab Repo](https://gitlab.com/gasingh/mathSurfaces/-/blob/c07bfc86433f5cd4a9437638ec126a38e5edd09b/README.md)
