@@ -314,6 +314,7 @@ where
 ![Capture_GH1](https://user-images.githubusercontent.com/6398561/227835450-c061d9db-386e-4d08-85c7-316c6d249068.JPG)
 
 
+[![](https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp)]([VIEW IN 3D](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm))
 
 [**VIEW 3D**](https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.4-B.gh_(3rd-reduce).3dm)
 
