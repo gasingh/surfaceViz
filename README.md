@@ -306,6 +306,11 @@ where
 
 ![210714 11_msh-colored](https://user-images.githubusercontent.com/6398561/227834057-c0cc9f4b-2ffc-488d-bd9c-07f19e94e40c.jpg)
 
+<p align="center" width="100%">
+  View in 3D! <br>
+  <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.3.gh_1.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+    <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.3.gh_2_meshStriated.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+</p>
 
 <!-- 
 ![210715 03](https://user-images.githubusercontent.com/6398561/227833317-11e75f48-3207-4724-8184-a5f3936929a2.jpg) -->
@@ -313,6 +318,15 @@ where
 
 ![210714 04](https://user-images.githubusercontent.com/6398561/227833388-907813a1-2f13-40f7-9085-c10ae331fdfd.jpg)
 <!-- ![210714 01](https://user-images.githubusercontent.com/6398561/227833406-94c06eea-61df-4799-b7de-81257eb6ddcd.jpg) -->
+
+
+<p align="center" width="100%">
+  View in 3D! <br>
+  <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-2.py.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+    <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4.gh_01_mesh.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+    <a href="https://3dviewer.net/#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4.gh.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+    <a href="https://3dviewer.net/index.html#model=https://github.com/gasingh/surfaceViz/blob/main/shape_files/superSurface_01F-4_surfacer.2.gh.3dm"> <img src="https://github.com/gasingh/surfaceViz/blob/main/shape_files/icon_online-3d-viewer_190499.webp" width="35" height="35"> </a>
+</p>
 
 ![210715 04_colorRange](https://user-images.githubusercontent.com/6398561/227835167-bc70e910-4394-4f28-a20c-5244f20b6edd.jpg)
 
